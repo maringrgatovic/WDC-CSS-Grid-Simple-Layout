@@ -3,6 +3,6 @@
 The task was to arrange a simople webpage layout using CSS and given shapes.
 
 Given page with shapes:
-![image](https://user-images.githubusercontent.com/56473997/196153492-f8cb826b-9680-4453-a663-4c9f7263024d.png)
+![image](https://user-images.githubusercontent.com/56473997/196154230-b100dd7a-735e-4b5a-9cf1-75012ff48fd9.png)
 
 My finished page: 
